@@ -1,12 +1,12 @@
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+
 * {
     margin: 0;
     padding: 0;
 }
-
-@font-face {
-    font-family: Inter;
-    src: url(/social-links-profile-main/assets/fonts/Inter-VariableFont_slnt\,wght.ttf)
-  }
 
 :root {
     --CorFundo: hsl(0, 0%, 8%);
@@ -72,6 +72,12 @@ h3 {
 
 }
 
+.conteudo_links > a:hover{
+    color: var(--CorFundo);
+    background-color: var(--CorDestaque);
+    
+}
+
 img {
     width: 100px;
     margin: 3%;
@@ -99,3 +105,35 @@ footer.fixar-rodape{
     position: fixed;
     width: 100%;
 }
+
+@media(min-width: 768px) {
+    .conteudo {
+        width: 500px;
+        margin: 100px auto;
+        padding: 20px;
+    }
+
+    img {
+        width: 120px;
+    }
+    
+}
+
+@media(min-width: 1920px) {
+    .conteudo {
+        width: 500px;
+        margin: 5% auto;
+    }
+
+    .conteudo_links {
+        width: 450px;
+    }
+
+    img {
+        width: 150px;
+        padding: 10px;
+    }
+    
+}
+
+
