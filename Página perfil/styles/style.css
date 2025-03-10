@@ -108,7 +108,7 @@ footer.fixar-rodape{
 
 @media(min-width: 768px) {
     .conteudo {
-        width: 500px;
+        width: 350px;
         margin: 100px auto;
         padding: 20px;
     }
