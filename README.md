@@ -21,8 +21,6 @@ React.js: Introdução a componentes e desenvolvimento de interfaces.
 
 UX/UI Design: Fundamentos de usabilidade e experiência do usuário.
 
-Python: Lógica básica, automação e manipulação de dados.
-
 Entre outros tópicos relevantes.
 
 ## 📂 Estrutura do Repositório
@@ -34,7 +32,6 @@ Cada pasta contém exercícios ou projetos relacionados ao respectivo curso.
 1. Clone o repositório: git clone https://github.com/anac-silva/Cursos_Alura.git
 2. Acesse a pasta desejada: cd Cursos_Alura/JavaScript
 3. Abra os arquivos com o editor de sua preferência.
-
 
 ## 📝 Considerações Finais
 Este repositório representa minha dedicação ao aprendizado contínuo e à prática constante. Caso tenha interesse em colaborar, sugerir melhorias ou trocar experiências, fique à vontade para entrar em contato.
