@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# 👥 Organo
+Este projeto foi desenvolvido como parte do curso "React: desenvolvendo com JavaScript" da plataforma Alura. O objetivo foi criar uma aplicação interativa que permite cadastrar colaboradores em diferentes times, praticando conceitos essenciais do React como componentes, props, state e reutilização de código.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🎯 Objetivos do Projeto
+Desenvolver uma aplicação com React.js.
 
-## Available Scripts
+Praticar a criação e a composição de componentes.
 
-In the project directory, you can run:
+Utilizar props e state para criar funcionalidades dinâmicas.
 
-### `npm start`
+Estilizar componentes com CSS modularizado.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Trabalhar com formulários e manipulação de dados.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Tecnologias Utilizadas
+React.js — Criação da aplicação e componentes.
 
-### `npm test`
+JavaScript (ES6+) — Lógica e interatividade.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+HTML5 e CSS3 — Estruturação e estilização.
 
-### `npm run build`
+Vite — Ferramenta para build e execução rápida do projeto.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+📂 Funcionalidades
+✅ Cadastro de colaboradores com nome, cargo e imagem.
+✅ Exibição de colaboradores separados por time.
+✅ Estilização individual para cada time.
+✅ Responsividade para diferentes tamanhos de tela.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Como Executar o Projeto
+Clone o repositório:
+git clone https://github.com/anac-silva/Cursos_Alura.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Acesse a pasta do projeto Organo:
+cd Cursos_Alura/Organo
 
-### `npm run eject`
+Instale as dependências:
+npm install
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Execute a aplicação:
+npm run dev
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Abra no navegador: http://localhost:5173
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📝 Aprendizados
+Componentização no React.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Comunicação entre componentes via props.
 
-## Learn More
+Gerenciamento de estado com useState.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Estruturação e organização de projetos React.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Estilização modular com CSS.
