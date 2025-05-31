@@ -1,32 +1,43 @@
+# 🛒 Aplicação Web: Lista de Atividades
+Este projeto foi desenvolvido como parte do curso "Construção de Páginas Dinâmicas com JavaScript" da Alura. O objetivo principal foi criar uma aplicação prática e funcional, utilizando os conceitos fundamentais de JavaScript para manipular o DOM, tratar eventos e implementar persistência de dados no navegador.
 
-![Descricao da sua imagem](https://imgur.com/C8TfWXc.png)
+## 🎯 Objetivos do Projeto
+Criar uma aplicação dinâmica e interativa com JavaScript puro.
 
-# Titulo do projeto
+Praticar manipulação de elementos HTML via DOM.
 
-Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
+Implementar funcionalidades como adicionar, remover e marcar itens.
 
-## 🔨 Funcionalidades do projeto
+Utilizar localStorage para manter os dados salvos entre sessões.
 
-A aplicação permite inserir itens em uma lista de forma dinâmica. Os itens terão o nome e também a data e horário que foram criados. Também é possível selecionar um checkbox para informar que o item foi comprado.
+## 🛠️ Tecnologias Utilizadas
+HTML5 — Estruturação da página.
 
-![Inserção no campo de digitação do valor suco de laranja](https://imgur.com/TtQXfgX.gif)
+CSS3 — Estilização e responsividade.
 
-## ✔️ Técnicas e tecnologias utilizadas
+JavaScript — Lógica de manipulação da lista e persistência de dados.
 
-As técnicas e tecnologias utilizadas pra isso são:
+📂 Funcionalidades da Aplicação
+✅ Adicionar novos itens à lista.
+✅ Marcar itens como concluídos ou pendentes.
+✅ Remover itens da lista.
 
-- `HTML`: criação dos elementos da tela;
-- `CSS`: estilização da aplicação;
-- `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
+## 🚀 Como Executar
+Clone o repositório:
+git clone https://github.com/anac-silva/Cursos_Alura.git
 
-## 🛠️ Abrir e rodar o projeto
+Acesse a pasta do projeto:
+cd Cursos_Alura/Lista_de_Compras
 
-Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, no menu superior, clique em:
+Abra o arquivo index.html no navegador.
 
-- **File** > **Open Folder** (ou alguma opção similar)
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
-- Por fim clique em OK
+## 📝 Aprendizados
+Manipulação do DOM com querySelector e createElement.
 
-Ao finalizar esses passos, você pode executar a aplicação com a extensão Live Server 🏆 
+Tratamento de eventos com addEventListener.
 
+Estruturas de controle e iteração para dinamizar o conteúdo.
 
+Persistência de dados com localStorage.
+
+Boas práticas de organização e clareza no código.
