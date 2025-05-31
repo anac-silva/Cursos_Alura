@@ -17,7 +17,7 @@ CSS3
 
 JavaScript
 
-##🚀 Como Executar
+## 🚀 Como Executar
 Clone o repositório:
 git clone https://github.com/anac-silva/Cursos_Alura.git
 
