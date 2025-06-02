@@ -1,43 +1,45 @@
-# 🛒 Aplicação Web: Lista de Atividades
-Este projeto foi desenvolvido como parte do curso "Construção de Páginas Dinâmicas com JavaScript" da Alura. O objetivo principal foi criar uma aplicação prática e funcional, utilizando os conceitos fundamentais de JavaScript para manipular o DOM, tratar eventos e implementar persistência de dados no navegador.
+# 🚀 JavaScript: Entendendo Promises e Async/Await
+Este repositório contém os exercícios e exemplos desenvolvidos durante o curso "JavaScript: entendendo Promises e Async/Await" da Alura. O curso aborda os conceitos fundamentais para trabalhar com programação assíncrona em JavaScript, utilizando Promises e a sintaxe moderna de Async/Await.
 
-## 🎯 Objetivos do Projeto
-Criar uma aplicação dinâmica e interativa com JavaScript puro.
+## 🎯 Objetivos do Curso
+Compreender o funcionamento da programação assíncrona no JavaScript.
 
-Praticar manipulação de elementos HTML via DOM.
+Aprender a trabalhar com Promises para lidar com operações assíncronas.
 
-Implementar funcionalidades como adicionar, remover e marcar itens.
+Entender a importância do encadeamento de Promises e tratamento de erros.
 
-Utilizar localStorage para manter os dados salvos entre sessões.
+Utilizar a sintaxe moderna de async e await para simplificar o código assíncrono.
+
+Praticar boas práticas para código limpo e legível em fluxos assíncronos.
 
 ## 🛠️ Tecnologias Utilizadas
-HTML5 — Estruturação da página.
+JavaScript ES6+ — Sintaxe moderna com Promises, async e await.
 
-CSS3 — Estilização e responsividade.
+Node.js — Ambiente de execução para testes e exemplos.
 
-JavaScript — Lógica de manipulação da lista e persistência de dados.
+Git e GitHub — Versionamento e organização do projeto.
 
-📂 Funcionalidades da Aplicação
-✅ Adicionar novos itens à lista.
-✅ Marcar itens como concluídos ou pendentes.
-✅ Remover itens da lista.
+HTML e CSS - Estrutura e estilização da página.
 
 ## 🚀 Como Executar
 Clone o repositório:
 git clone https://github.com/anac-silva/Cursos_Alura.git
 
-Acesse a pasta do projeto:
-cd Cursos_Alura/Lista_de_Compras
+Acesse a pasta do curso:
+cd Cursos_Alura/javascript-promises-async-await
 
-Abra o arquivo index.html no navegador.
+Execute os exemplos utilizando o Node.js:
+node exemplos/promise-basica.js
 
 ## 📝 Aprendizados
-Manipulação do DOM com querySelector e createElement.
+Diferenças entre callbacks e Promises.
 
-Tratamento de eventos com addEventListener.
+Criação e consumo de Promises.
 
-Estruturas de controle e iteração para dinamizar o conteúdo.
+Simplificação de fluxos assíncronos com async e await.
 
-Persistência de dados com localStorage.
+Tratamento de erros em funções assíncronas.
 
-Boas práticas de organização e clareza no código.
+## Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F57CE?style=for-the-badge&logo=linkedin&logoColor=F)](https://www.linkedin.com/in/carolinamerloti/)  [![E-mail](https://img.shields.io/badge/-Email-C551C1?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:desenvolvedora.ana.silva@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-DD81A0?style=for-the-badge&logo=whatsapp&logoColor=FFF)](https://wa.me/5518998219709) 
