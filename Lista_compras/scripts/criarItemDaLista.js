@@ -3,7 +3,7 @@ const inputItem = document.getElementById("input-item")
 let contador = 0;
 
 export function criarItemDaLista() {
-   
+
     if (inputItem.value === "") {
         alert("Por favor, insira um item!");
         return
@@ -32,11 +32,11 @@ inputCheckbox.addEventListener("click", function() {
 
     itemDaLista.appendChild(containerItemDaLista)
     const dataCompleta = gerarDiaDaSemana()
-   
+
     const itemData = document.createElement("p");
     itemData.innerText = dataCompleta;
     itemData.classList.add("texto-data")
     itemDaLista.appendChild(itemData)
 
-   return itemDaLista;
+    return itemDaLista;
 }
