@@ -15,7 +15,7 @@ Criar uma página visualmente agradável e funcional.
 ## 🛠️ Tecnologias Utilizadas
 HTML5 — Estruturação semântica da página.
 
-CSS3 — Estilização de elementos e layout.
+SCSS — Estilização de elementos e layout.
 
 Git e GitHub — Controle de versão e hospedagem do código.
 
